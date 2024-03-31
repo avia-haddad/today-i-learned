@@ -1,5 +1,7 @@
 # Today I Learned
 
+<img src="demo.png" width="600px" />
+
 Today I Learned is a React project that connects to Supabase, allowing users to explore and contribute to a repository of categorized facts. Whether you're looking to expand your knowledge or share your insights with others, Today I Learned provides a platform to do so efficiently and effectively.
 
 ## Features:
